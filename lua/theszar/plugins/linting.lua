@@ -11,6 +11,7 @@ return {
       markdown = {"vale"},
       python = { "pylint" },
       cpp = { "cppcheck" },
+      c = { "cppcheck" },
       tex = {"chktex"},
     }
 
